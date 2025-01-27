@@ -1,1 +1,1 @@
-https://bogdanpavlyk.github.io/goit-advancedjs-hw-01/
+https://bogdanpavlyk.github.io/goit-advancedjs-hw-02/
